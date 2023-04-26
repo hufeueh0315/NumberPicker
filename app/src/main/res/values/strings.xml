@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">密碼鎖</string>
+    <string name="set_password" />
+    <string name="Unlock">解鎖</string>
+    <string name="set_password2">設定密碼</string>
+</resources>
